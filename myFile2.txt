@@ -2,6 +2,6 @@ more great stuff here
 we are cloning
 remote to locally
 making some changes
-commiting the changes
+committing the changes
 pushing it back to
 remote repository
